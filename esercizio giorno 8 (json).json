@@ -1,0 +1,16 @@
+{
+	"brand": "toyota"
+	"price": "6300"
+	"model": "cruiser"
+	"year": "2008"
+	"mileage" : "274117"
+	"color": "black"
+}
+{
+	"brand": "ford"
+	"price": "2900"
+	"model": "se"
+	"year" : "2011"
+	"mileage": "190552"
+	"color": "silver"
+}

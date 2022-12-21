@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewDataSet>
+<world_population_data>
+<COUNTRY>
+<country_name>china</country_name>
+<population1980>982372466<population1980>
+<population2022>1425887337</population2022>
+<country_code>CHN</country_code>
+</COUNTRY>
+<COUNTRY>
+<country_name>india</country_name>
+<population1980>696828385<population1980>
+<population2022>1417173173</population2022>
+<country_code>IND</country_code>
+</COUNTRY>
+<COUNTRY>
+<country_name>united states</country_name>
+<population1980>223140018</population1980>
+<population2022>338289857</population2022>
+<country_code>USA</country_code>
+</COUNTRY>
+<COUNTRY>
+<country_name>indonesia</country_name>
+<population1980>148177096<population1980>
+<population2022>275501339</population2022>
+<country_code>IDN</country_code>
+</COUNTRY>
+</world_population_data>
+<NewDataSet>
